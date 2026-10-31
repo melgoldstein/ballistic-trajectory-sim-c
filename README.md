@@ -5,4 +5,4 @@ Inputs: speed m/s, elevation degrees, mass kg, quadratic drag kg/m.
 Reports flight time, range and apex; drag acceleration opposes velocity.
 Integrator: semi-implicit Euler, timestep 0.001 seconds, linear impact interpolation.
 No targeting, navigation or live range inputs are provided.
-Check: `python tests/check.py ./trajectory`.
+Check: `python tests/check.py ./trajectory`. [Portfolio: melgoldstein.com](https://melgoldstein.com/)
